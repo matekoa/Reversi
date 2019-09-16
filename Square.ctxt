@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=x\ y\ type
+comment0.target=Square(int,\ int,\ int)
+comment0.text=\nConstructor,\ takes\ in\ the\ x\ and\ y\ coordinates\ and\ the\ square\ type\n
+comment1.params=x\ y
+comment1.target=void\ setXY(int,\ int)
+comment1.text=\n\ Sets\ the\ x\ and\ y\ location\ of\ the\ square.\n
+comment2.params=
+comment2.target=int\ getX()
+comment2.text=\n\ Accessor\ method\ for\ the\ x\ coordinate\n
+comment3.params=
+comment3.target=int\ getY()
+comment3.text=\n\ Accessor\ method\ for\ the\ y\ coordinate\n
+comment4.params=t
+comment4.target=void\ setType(int)
+comment4.text=\n\ Sets\ the\ square\ type\n
+comment5.params=
+comment5.target=int\ getType()
+comment6.params=g
+comment6.target=void\ draw(java.awt.Graphics)
+comment6.text=\n\ Draws\ the\ square\ according\ to\ what\ type\ it\ is,\ a\ square\ of\ a\ piece\ type\ contains\ a\ piece\ of\n\ that\ color\ in\ it,\ while\ a\ square\ of\ a\ valid\ type\ just\ draws\ an\ oval\ in\ the\ valid\ square\ to\ \n\ distinguish\ it\ from\ the\ other\ types.\n
+numComments=7

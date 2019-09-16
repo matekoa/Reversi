@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GamePanel()
+comment1.params=t
+comment1.target=void\ setTurn(int)
+comment2.params=white
+comment2.target=void\ setWhiteScore(int)
+comment3.params=black
+comment3.target=void\ setBlackScore(int)
+comment4.params=
+comment4.target=void\ updateScore()
+comment5.params=done
+comment5.target=void\ setFinished(boolean)
+comment6.params=
+comment6.target=void\ resetGame()
+numComments=7
