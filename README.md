@@ -1,6 +1,10 @@
 # Reversi/Othello
 ## AUTHOR: Matekoa Motsoasele
-This is a project I worked on in Grade 12. It is a 2 player game of Reversi (board game). A simple google search can help you understand the rules of the game or you can be find them here: https://www.mastersofgames.com/rules/reversi-othello-rules.htm
+This is a project I worked on in Grade 12. It is a 2 player game of Reversi (board game).
+
+### Rules of The Game:
+Video: https://www.youtube.com/watch?v=Ol3Id7xYsY4
+Text: https://www.mastersofgames.com/rules/reversi-othello-rules.htm
 
 ## Important Topics Covered in the Code:
  - Recursion: 
