@@ -1,4 +1,4 @@
-# Reversi
+# Reversi/Othello
 ## AUTHOR: Matekoa Motsoasele
 This is a project I worked on in Grade 12. It is a 2 player game of Reversi (board game). A simple google search can help you understand the rules of the game or you can be find them here: http://www.flyordie.com/games/help/reversi/en/games_rules_reversi.html
 
